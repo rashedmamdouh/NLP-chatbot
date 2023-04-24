@@ -48,10 +48,6 @@ The chatbot can be configured by modifying the `config.py` function. The followi
 * `SECRET_KEY`: The secret key used to sign session cookies.
 * `SESSION_TYPE`: The type of session interface to use.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 * Special thanks to the developers of the Python frameworks used in this project.
