@@ -27,7 +27,6 @@ The following libraries are required to run the chatbot:
    ```
 
 3. Install the required libraries
-   ```
 
 ## Usage
 
