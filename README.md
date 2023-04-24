@@ -1,6 +1,6 @@
 # NLP Chatbot using Python Frameworks
 
-This is a Natural Language Processing (NLP) chatbot developed using various Python frameworks such as Openfabric-pysdk, Flask-SocketIO, Marshmallow, nltk, and Werkzeug. The chatbot uses NLP techniques to understand natural language input and provide appropriate responses.
+This is a Natural Language Processing (NLP) chatbot developed using various Python frameworks such as Openfabric-pysdk, Flask-SocketIO, Marshmallow, nltk, wikipedia and Werkzeug. The chatbot uses NLP techniques to understand natural language input and provide appropriate responses.
 
 ## Requirements
 
@@ -12,6 +12,7 @@ The following libraries are required to run the chatbot:
 * Marshmallow
 * Werkzeug
 * nltk
+* wikipedia
 
 ## Installation
 
