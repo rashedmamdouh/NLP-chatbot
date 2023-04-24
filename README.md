@@ -17,7 +17,7 @@ The following libraries are required to run the chatbot:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/rashedmamdouh/NLP-chatboot.git
+   git clone https://github.com/rashedmamdouh/NLP-chatbot
    ```
 
 2. Change directory to the project folder:
